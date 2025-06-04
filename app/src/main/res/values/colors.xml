@@ -1,0 +1,9 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="purple_700">#6200EE</color>
+    <color name="purple_900">#4A148C</color>
+    <color name="bg_Cream">#FFEDE2</color>#
+    <color name="playerSheetBg">#CC4A148C</color> <!-- semi-transparent purple_900 -->
+</resources>
